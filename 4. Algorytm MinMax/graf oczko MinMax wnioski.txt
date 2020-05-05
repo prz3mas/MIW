@@ -1,0 +1,1 @@
+Wynik działania algorytmu MinMax mówi, że w tej grze antagonista bez względu na wybory protagonisty zawsze może wygrać, jeśli będzie dokonywał właściwych wyborów.
